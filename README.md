@@ -79,7 +79,7 @@ Webhook-driven automation integrating GitHub & JIRA using Python Flask. Auto-cre
 
 Deployed centralized log aggregation stack on Debian servers for real-time monitoring & automated threat detection. Alert rules for failed logins & port scans.
 
-📹 [Video Demo](https://github.com/VINAYBOYAT11)
+📹 [Video Demo](https://github.com/VINAYBOYAT11/SIEM-Platform) &nbsp;|&nbsp; 🔗 [View Repo →](https://github.com/VINAYBOYAT11/SIEM-Platform)
 
 </td>
 <td width="50%">
