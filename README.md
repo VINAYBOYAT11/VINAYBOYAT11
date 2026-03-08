@@ -98,7 +98,7 @@ Deployed centralized log aggregation stack on Debian servers for real-time monit
 
 Privacy-preserving intrusion detection for IoT networks. Processed **350,000+ IoT records**, achieved **96% accuracy** using federated Random Forest — zero raw data sharing.
 
-📹 [Video Demo](https://github.com/VINAYBOYAT11/Federated-Learning-IoT-Intrusion-Detection-System)
+📹 [Video Demo](https://github.com/VINAYBOYAT11/Federated-Learning-IoT-Intrusion-Detection-System) &nbsp;|&nbsp; 🔗 [View Repo →](https://github.com/VINAYBOYAT11/Federated-Learning-IoT-Intrusion-Detection-System)
 
 </td>
 </tr>
