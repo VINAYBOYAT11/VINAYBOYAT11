@@ -101,7 +101,7 @@ Privacy-preserving intrusion detection for IoT networks. Processed **350,000+ Io
 
 Relational database managing **500+ donor records**, **8 blood types**, **100+ transfusion logs**. Automated inventory tracking, expiry alerts & donor checks → reduced manual work by **70%**.
 
-[View Repo →](https://github.com/VINAYBOYAT11/Blood-Bank-management-system)
+[🌐 Live Demo →](https://attached-files--vivanboyat9.replit.app/) &nbsp;|&nbsp; [View Repo →](https://github.com/VINAYBOYAT11/Blood-Bank-management-system)
 
 </td>
 </tr>
