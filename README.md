@@ -57,18 +57,7 @@ email     : vinayboyat102@gmail.com
 
 </div>
 
----
 
-## 💼 Experience
-
-### 🏢 Siddhi Infonet India Pvt. Ltd — *DevOps Intern*
-**June 2025 – December 2025**
-
-- 🚀 Designed and maintained **3 CI/CD pipelines** supporting weekly production deployments → reduced release time by **60%**
-- 🐳 Containerized backend services with **Docker**, eliminating environment inconsistencies across staging & production
-- ☁️ Managed **AWS EC2** environments — configured IAM roles, security groups & networking for secure deployments
-
----
 
 ## 🚀 Featured Projects
 
